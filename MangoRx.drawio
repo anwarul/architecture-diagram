@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T09:11:17.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KdNQOZz4U_Jiuc0-Menq" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T09:12:20.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="J64s63w7eo3iV1-RD6Ik" version="22.0.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4754" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="10729" dy="5000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,10 +297,10 @@
           <mxGeometry x="-839" y="1033" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BIbaWBOUddNFx-qwVSOw-2167" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-843" y="1860" width="431" height="304" as="geometry" />
+          <mxGeometry x="-843" y="1860" width="5193" height="2050" as="geometry" />
         </mxCell>
         <mxCell id="BIbaWBOUddNFx-qwVSOw-2149" value="" style="group" parent="BIbaWBOUddNFx-qwVSOw-2167" vertex="1" connectable="0">
-          <mxGeometry width="431" height="304" as="geometry" />
+          <mxGeometry width="5193" height="2050" as="geometry" />
         </mxCell>
         <mxCell id="BIbaWBOUddNFx-qwVSOw-2138" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-office-icons-1/140/Artboard_1-13-128.png" parent="BIbaWBOUddNFx-qwVSOw-2149" vertex="1">
           <mxGeometry x="303" width="128" height="128" as="geometry" />
@@ -811,6 +811,9 @@
         </mxCell>
         <mxCell id="f0EU0gNQPLPFdARf_Crc-2116" value="MangoRx Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="820" y="810" width="1060" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f0EU0gNQPLPFdARf_Crc-2117" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#FFFFFF;labelBorderColor=default;labelBackgroundColor=#009900;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-993" y="4000" width="5490" height="2290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T18:05:22.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fHC4Lz6RQBnVtSO3th3o" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T18:52:35.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VT90mUAufzoh6jyk9W1R" version="23.1.2" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1257" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="DpLEGKwURlioBoFhBfSs-71" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="149" width="790" height="451" as="geometry" />
+          <mxGeometry x="686" y="149" width="790" height="451" as="geometry" />
         </mxCell>
         <mxCell id="DpLEGKwURlioBoFhBfSs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DpLEGKwURlioBoFhBfSs-71">
           <mxGeometry y="1" width="150" height="450" as="geometry" />
@@ -70,13 +70,19 @@
           <mxGeometry x="70" y="4" width="160" height="28" as="geometry" />
         </mxCell>
         <mxCell id="DpLEGKwURlioBoFhBfSs-32" value="&lt;font&gt;Native Token&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="DpLEGKwURlioBoFhBfSs-29">
-          <mxGeometry x="116" y="30" width="90" height="50" as="geometry" />
+          <mxGeometry x="192" y="32" width="54" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DpLEGKwURlioBoFhBfSs-33" value="&lt;font&gt;Network&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="DpLEGKwURlioBoFhBfSs-29">
-          <mxGeometry x="20" y="30" width="90" height="50" as="geometry" />
+          <mxGeometry x="122" y="31" width="65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DpLEGKwURlioBoFhBfSs-34" value="&lt;font&gt;Platform&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="DpLEGKwURlioBoFhBfSs-29">
-          <mxGeometry x="220" y="30" width="90" height="50" as="geometry" />
+          <mxGeometry x="250" y="30" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DpLEGKwURlioBoFhBfSs-72" value="&lt;font&gt;Ledger&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="DpLEGKwURlioBoFhBfSs-29">
+          <mxGeometry x="70" y="32" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DpLEGKwURlioBoFhBfSs-73" value="&lt;font&gt;Consensus&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="DpLEGKwURlioBoFhBfSs-29">
+          <mxGeometry x="5" y="32" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DpLEGKwURlioBoFhBfSs-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DpLEGKwURlioBoFhBfSs-71" source="DpLEGKwURlioBoFhBfSs-13" target="DpLEGKwURlioBoFhBfSs-16">
           <mxGeometry relative="1" as="geometry" />
